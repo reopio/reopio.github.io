@@ -2,8 +2,6 @@ body{
   margin: auto;
   font-size:18px;
   font-family: fontello;
-  color:#333;
-  background:#ddd;
   overflow-x:hidden;
   line-height: 2em;
   max-width: 50em;
@@ -15,7 +13,6 @@ a{
 code {
   font-size:14px;
   line-height: 1.5em;
-  background-color: #eee;
   border: 1px solid #999;
   display: block;
   padding: 20px;
